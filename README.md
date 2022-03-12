@@ -40,6 +40,7 @@ https://colab.research.google.com/drive/1Z_LONnIbtqWiFwWcyytQN6m0iuGLrgqJ?usp=sh
 4. Google Colab (Access <a href="https://colab.research.google.com">Google Colab</a>)
 5. Git (Download <a href="https://git-scm.com">Git Software</a>)
 6. AWS (Access the Free Tier <a href="https://aws.amazon.com/free">AWS Free Tier</a>)
+7. Thingspeak (Access the Thingspeak IoT Cloud <a href="https://thingspeak.com">Thing Speak</a>)
 
 # Contact
 Reach me on LinkedIn (<a href="https://www.linkedin.com/in/madhupiot/">Maddy</a>)
