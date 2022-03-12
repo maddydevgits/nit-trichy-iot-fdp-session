@@ -11,6 +11,9 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 # My WhiteBoard
 https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2RhNGQxYWFhYWIwZDQxYjJhNmY4ZDc5OWJjMGIzYjhlX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9iMjA3MDE5Yy04MGZlLTQ0Y2ItYWJhOC1mZTNlYWU5NzAyOGU=
 
+# My Colab
+https://colab.research.google.com/drive/1Z_LONnIbtqWiFwWcyytQN6m0iuGLrgqJ?usp=sharing
+
 # Session Content
 
 <b>12th March 2022</b>
