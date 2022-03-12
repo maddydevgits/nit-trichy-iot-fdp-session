@@ -1,4 +1,3 @@
-from turtle import pu
 import serial
 import paho.mqtt.client as mqtt
 
