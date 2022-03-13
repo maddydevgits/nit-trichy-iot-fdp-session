@@ -1,0 +1,19 @@
+
+<html>
+    <head>
+        <title>IoT ML Classifier</title>
+    </head>
+    <body>
+        <h1>IoT ML Classifier Demo</h1>
+        <form action="/predict" method="POST">
+            <label>Enter Humidity: </label>
+            <input type="text" name="humidity" /> <br/><br/>
+            <label>Enter Temperature: </label>
+            <input type="text" name="temperature" /> <br/> <br/>
+            <input type="submit" value="Predict Data" /> 
+        </form>
+        <p>
+            {{result}}
+        </p>
+    </body>
+</html>
