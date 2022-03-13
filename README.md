@@ -42,5 +42,8 @@ https://colab.research.google.com/drive/1Z_LONnIbtqWiFwWcyytQN6m0iuGLrgqJ?usp=sh
 6. AWS (Access the Free Tier <a href="https://aws.amazon.com/free">AWS Free Tier</a>)
 7. Thingspeak (Access the Thingspeak IoT Cloud <a href="https://thingspeak.com">Thing Speak</a>)
 
+# Blockchain Playsist
+https://www.youtube.com/playlist?list=PLn6ePjGEQo6497ADVaLRTLQu0UJ-acNZi
+
 # Contact
 Reach me on LinkedIn (<a href="https://www.linkedin.com/in/madhupiot/">Maddy</a>)
